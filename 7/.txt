@@ -1,0 +1,1 @@
+class is like a molde for future objects so that they can be identical in thier structure

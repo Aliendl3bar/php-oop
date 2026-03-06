@@ -1,0 +1,1 @@
+child has all the atribuits of the parents plus it owns
