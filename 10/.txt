@@ -1,0 +1,3 @@
+Classes allow CRUD operations to be organized into reusable methods.
+
+PDO is integrated directly into the class to secure queries

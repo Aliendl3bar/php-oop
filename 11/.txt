@@ -1,0 +1,3 @@
+having a databse class faciliates the reuse
+fetch() on line fitchAll() all lines 
+prepare() execute() save our sql vurnabilities
